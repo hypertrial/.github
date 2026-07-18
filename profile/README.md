@@ -1,3 +1,5 @@
+# Hypertrial
+
 Hypertrial builds open-source data infrastructure that makes it easier for smart people to solve problems.
 
 ## 1. Identify the Problem
