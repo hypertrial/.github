@@ -1,3 +1,17 @@
-Hypertrial is a platform where performance meets impact.
+Hypertrial builds open-source data infrastructure that makes it easier for smart people to solve problems.
 
-We bring top global talent together to solve real-world, industry-driven challenges. Built on the success of Trilemma Foundation, Hypertrial rewards technical performance by aligning talent with high-demand opportunities.
+## 1. Identify the Problem
+
+Start with a decision worth improving.
+
+## 2. Identify the Data
+
+Find the sources that reliably capture the signal.
+
+## 3. Build the Pipeline
+
+Collect, clean, and model the data end to end.
+
+## 4. Build the Tools
+
+Turn the pipeline into tools people can use.
