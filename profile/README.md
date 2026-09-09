@@ -1,21 +1,23 @@
 # Hypertrial
 
-Hypertrial builds open-source data infrastructure that makes it easier for smart people to solve problems.
+Stop renting your software.
+
+Hypertrial builds free, open-source replacements for expensive proprietary tools.
 
 ## How We Build
 
-### 1. Identify the Problem
+### 1. Find the Software
 
-Start with a decision worth improving.
+Look for expensive tools that need a better alternative.
 
-### 2. Identify the Data
+### 2. Focus on What Matters
 
-Find the sources that reliably capture the signal.
+Identify the workflows people actually use.
 
-### 3. Build the Pipeline
+### 3. Build the Replacement
 
-Collect, clean, and model the data end to end.
+Recreate the core product with modern, open-source tools.
 
-### 4. Build the Tools
+### 4. Release It
 
-Turn the pipeline into tools people can use.
+Make it free to use, inspect, and improve.
